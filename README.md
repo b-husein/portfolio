@@ -1,5 +1,5 @@
 #  Portfolio (v. 1.0.x);
-## Portfolio that contains latest projects; 
+## Portfolio with latest projects; 
 
 💻 USEFUL PLAYLISTS:
 
